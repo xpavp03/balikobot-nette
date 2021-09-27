@@ -1,0 +1,26 @@
+{
+	"name": "halasz/balikobot-nette",
+	"type": "library",
+	"description": "Library which integrates inspirum/balikobot into Nette",
+	"license": ["BSD-3-Clause", "GPL-2.0-or-later", "GPL-3.0-or-later"],
+	"authors": [
+		{
+			"name": "Antonín Jehlář",
+			"email": "tondajehlar@ajaximple.cz"
+		},
+		{
+			"name": "Tomáš Halász",
+			"email": "info@faktury.cz"
+		}
+	],
+	"require": {
+		"php": ">=8.0",
+		"nette/di": "^3.0",
+		"inspirum/balikobot": "^6.0"
+	},
+	"autoload": {
+		"psr-4": {
+			"Halasz\\Balikobot\\": "src/"
+		}
+	}
+}
