@@ -11,12 +11,16 @@
 		{
 			"name": "Tomáš Halász",
 			"email": "info@faktury.cz"
+		},
+		{
+			"name": "Petr 'PePa' Pavel",
+			"email": "petr.pavel@pepa.info"
 		}
 	],
 	"require": {
 		"php": ">=8.0",
 		"nette/di": "^3.0",
-		"inspirum/balikobot": "^6.0"
+		"inspirum/balikobot": "^7.12"
 	},
 	"autoload": {
 		"psr-4": {
