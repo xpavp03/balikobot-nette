@@ -1,5 +1,5 @@
 {
-	"name": "halasz/balikobot-nette",
+	"name": "xpavp03/balikobot-nette",
 	"type": "library",
 	"description": "Library which integrates inspirum/balikobot into Nette",
 	"license": ["BSD-3-Clause", "GPL-2.0-or-later", "GPL-3.0-or-later"],
